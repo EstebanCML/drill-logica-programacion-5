@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background: #ccc; /* Cambia aquí el color a un gris más notorio */
+}
+input, button {
+  font-size: 1rem;
+  padding: 0.5em;
+  margin: 0.5em 0;
+}
+#message {
+  margin-top: 1em;
+  font-weight: bold;
+}
+#history {
+  margin-top: 1em;
+  color: #555;
+}
